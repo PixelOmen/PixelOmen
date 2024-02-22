@@ -9,6 +9,7 @@ ___
 # Portfolio
 
 [Documentation Examples](#documentation-examples)<br>
+[Unit Tests](#documentation-examples)<br>
 [Python](#python)<br>
 [Go](#go)<br>
 
@@ -17,18 +18,32 @@ ___
 ## Documentation Examples
 Examples of source code docstrings and repo READMEs.
 
+https://github.com/PixelOmen/tclib3/tree/master<br>
 https://github.com/PixelOmen/rosettapath/tree/portfolio<br>
 https://github.com/PixelOmen/mediaprobe/tree/portfolio<br>
 https://github.com/PixelOmen/simplelog
 
 ___
 
+## Unit Tests
+
+Placeholder
+
+___
+
 # Python
 
 ### Mediaprobe
-Example of spawning a subprocess, piping the stdout, and decoding/parsing the returning JSON.
+Spawns a subprocess, pipes stdout, decodes/parses JSON.
 
 https://github.com/PixelOmen/mediaprobe/tree/portfolio
+
+### TCLIB3
+
+Converts between frames, timecode, and milliseconds through various operations. Supports non-dropframe and dropframe timecode. Uses Poetry package structure with source and wheel distributions.
+
+https://github.com/PixelOmen/tclib3/tree/master
+
 
 ___
 
