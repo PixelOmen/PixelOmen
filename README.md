@@ -8,48 +8,45 @@ PixelOmen@gmail.com
 ___
 # Portfolio
 
-[Documentation Examples](#documentation-examples)<br>
-[Unit Tests](#documentation-examples)<br>
 [Python](#python)<br>
+[C++](#c)<br>
 [Go](#go)<br>
-
-___
-
-## Documentation Examples
-Examples of source code docstrings and repo READMEs.
-
-https://github.com/PixelOmen/tclib3/tree/master<br>
-https://github.com/PixelOmen/rosettapath/tree/portfolio<br>
-https://github.com/PixelOmen/mediaprobe/tree/portfolio<br>
-https://github.com/PixelOmen/simplelog
-
-___
-
-## Unit Tests
-
-Placeholder
 
 ___
 
 # Python
 
-### Mediaprobe
-Spawns a subprocess, pipes stdout, decodes/parses JSON.
-
-https://github.com/PixelOmen/mediaprobe/tree/portfolio
-
-### TCLIB3
+#### TCLIB3
 
 Converts between frames, timecode, and milliseconds through various operations. Supports non-dropframe and dropframe timecode. Uses Poetry package structure with source and wheel distributions.
 
-https://github.com/PixelOmen/tclib3/tree/master
+https://github.com/PixelOmen/tclib3
 
+#### Mediaprobe
+Python interface/wrapper for the Mediainfo CLI tool. It calls MediaInfo as a subprocess and parses the returning JSON into objects that can easily provide metadata about a file in the form relevant datatypes.
+
+https://github.com/PixelOmen/mediaprobe/tree/portfolio
+
+#### RosettaPath
+RossetaPath objects translate network paths mounted to local volumes from one mount point to another across operating systems.
+
+https://github.com/PixelOmen/rosettapath/tree/portfolio<br>
+
+___
+
+# C++
+
+#### QTSDK
+
+A command-line program that utilizes the QuickTime 7 SDK to perform various operations on QuickTime files in Windows.
+
+https://github.com/PixelOmen/QTSDK
 
 ___
 
 # Go
 
-### SimpleLog
+#### SimpleLog
 
 A simple extension of the standard logger that allows toggling between different log levels (DEBUG, INFO, WARNING, ERROR, FATAL).
 
