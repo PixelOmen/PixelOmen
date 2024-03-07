@@ -20,7 +20,7 @@ ___
 
 - XQFlagger
 
-A CLI tool and Python package tha modifies the codec ID of a ProResXQ MOV so that it appears to be a ProRes4444 MOV.
+A CLI tool and Python package that modifies the codec ID of a ProResXQ MOV so that it appears to be a ProRes4444 MOV.
 
 https://github.com/PixelOmen/xqflagger
 
