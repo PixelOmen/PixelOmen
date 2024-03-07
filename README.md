@@ -16,18 +16,31 @@ ___
 
 # Python
 
-#### TCLIB3
+### Apps
+
+- XQFlagger
+
+A CLI tool and Python package tha modifies the codec ID of a ProResXQ MOV so that it appears to be a ProRes4444 MOV.
+
+https://github.com/PixelOmen/xqflagger
+
+___
+### Libraries
+
+- TCLIB3
 
 Converts between frames, timecode, and milliseconds through various operations. Supports non-dropframe and dropframe timecode. Uses Poetry package structure with source and wheel distributions.
 
 https://github.com/PixelOmen/tclib3
 
-#### Mediaprobe
+- Mediaprobe
+
 Python interface/wrapper for the Mediainfo CLI tool. It calls MediaInfo as a subprocess and parses the returning JSON into objects that can easily provide metadata about a file in the form relevant datatypes.
 
 https://github.com/PixelOmen/mediaprobe/tree/portfolio
 
-#### RosettaPath
+- RosettaPath
+
 RossetaPath objects translate network paths mounted to local volumes from one mount point to another across operating systems.
 
 https://github.com/PixelOmen/rosettapath/tree/portfolio<br>
@@ -38,7 +51,7 @@ ___
 
 #### QTSDK
 
-A command-line program that utilizes the QuickTime 7 SDK to perform various operations on QuickTime files in Windows.
+A CLI tool that utilizes the Windows QuickTime 7 SDK to perform various operations on QuickTime files.
 
 https://github.com/PixelOmen/QTSDK
 
