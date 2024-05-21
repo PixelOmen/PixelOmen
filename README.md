@@ -4,7 +4,7 @@ I am an experienced professional with 14 years in TV/Film post-production and a 
 
 ___
 # Contact
-PixelOmen@gmail.com
+3D.Acosta@gmail.com
 ___
 # Portfolio
 
