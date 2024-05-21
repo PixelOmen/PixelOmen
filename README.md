@@ -37,13 +37,13 @@ https://github.com/PixelOmen/tclib3
 
 Python interface/wrapper for the Mediainfo CLI tool. It calls MediaInfo as a subprocess and parses the returning JSON into objects that can easily provide metadata about a file in the form relevant datatypes.
 
-https://github.com/PixelOmen/mediaprobe/tree/portfolio
+https://github.com/PixelOmen/mediaprobe
 
 - ##### RosettaPath
 
 RossetaPath objects translate network paths mounted to local volumes from one mount point to another across operating systems.
 
-https://github.com/PixelOmen/rosettapath/tree/portfolio<br>
+https://github.com/PixelOmen/rosettapath<br>
 
 ___
 ___
