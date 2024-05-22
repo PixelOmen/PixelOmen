@@ -12,7 +12,6 @@ ___
 [C++](#c)<br>
 [Go](#go)<br>
 
-<!-- [Web](#Web)<br> -->
 ___
 ___
 <br>
@@ -21,6 +20,12 @@ ___
 
 # Python
 ### Tools
+
+- ##### AmazonMMC
+
+A CLI tool designed to facilitate the creation of Amazon Media Entertainment Core (MEC) and Media Manifest Core (MMC) XML files. Additionally, it provides functionality to generate MD5 checksums and sample directories for Amazon deliveries.
+
+https://github.com/PixelOmen/amazonmmc.git
 
 - ##### XQFlagger
 
@@ -48,6 +53,16 @@ https://github.com/PixelOmen/mediaprobe
 RossetaPath objects translate network paths mounted to local volumes from one mount point to another across operating systems.
 
 https://github.com/PixelOmen/rosettapath<br>
+
+
+___
+### Web
+
+- ##### SvelteFlask
+
+Internal POC website that provides tools to assist colleagues with post-production workflows. It attempts to integrate Svelte for the frontend with Flask on the backend. It calls upon and integrates many of the tools and libraries featured here.
+
+https://github.com/PixelOmen/svelteflask.git
 
 ___
 ___
