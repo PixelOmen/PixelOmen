@@ -1,6 +1,6 @@
 # Bio
 
-I am an experienced professional with 14 years in TV/Film post-production and a self-taught developer for over 6 years. The technical and analytical skills honed in post-production have been instrumental in directing my software development education. Driven by a passion for solving problems and a relentless pursuit of knowledge, I have developed a strong foundation in software development through persistent self-study and practical application. Eager to apply my diverse skill set in a new domain, I am looking for opportunities to contribute to and grow within the tech industry. I am particularly interested in roles that challenge me to learn and innovate, as I continue to evolve my capabilities in software development.
+I am an experienced professional with 14 years in TV/Film post-production and a developer for over 6 years. The technical and analytical skills honed in post-production have been instrumental in directing my software development education. Driven by a passion for solving problems and a relentless pursuit of knowledge, I have developed a strong foundation in software development through persistent self-study and practical application. Eager to apply my diverse skill set in a new domain, I am looking for opportunities to contribute to and grow within the tech industry. I am particularly interested in roles that challenge me to learn and innovate, as I continue to evolve my capabilities in software development.
 
 ___
 # Contact
