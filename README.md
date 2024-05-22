@@ -1,6 +1,6 @@
 # Bio
 
-I am an experienced professional with 14 years in TV/Film post-production, with 6 years as a developer. While my journey didn't start in software development, the diverse technical challenges faced in post-production have allowed me forge a strong foundation through practical application. I'm eager to apply my skill sets in a new domain and am looking for opportunities to contribute to and grow within the tech industry. I am particularly interested in roles that challenge me to grow.
+I am an experienced professional with 14 years in TV/Film post-production, with 6 years as a developer. While my journey didn't start in software development, the diverse technical challenges faced in post-production have allowed me to forge a strong foundation through real-world practical application. I'm eager to apply my skill sets in a new domain and am looking for opportunities to contribute to and grow within the tech industry. I am particularly interested in roles that challenge me to grow.
 
 ___
 # Contact
@@ -11,8 +11,12 @@ ___
 [Python](#python)<br>
 [C++](#c)<br>
 [Go](#go)<br>
+
+<!-- [Web](#Web)<br> -->
 ___
 ___
+<br>
+<br>
 <br>
 
 # Python
@@ -48,6 +52,8 @@ https://github.com/PixelOmen/rosettapath<br>
 ___
 ___
 <br>
+<br>
+<br>
 
 # C++
 
@@ -60,6 +66,8 @@ https://github.com/PixelOmen/QTSDK
 ___
 ___
 <br>
+<br>
+<br>
 
 # Go
 
@@ -70,3 +78,10 @@ A simple extension of the standard logger that allows toggling between different
 https://github.com/PixelOmen/simplelog
 ___
 ___
+<br>
+<br>
+<br>
+
+<!-- # Web
+
+Coming Soon -->
