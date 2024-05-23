@@ -36,7 +36,6 @@ ___
 ___
 <br>
 <br>
-<br>
 
 
 
@@ -81,7 +80,6 @@ ___
 ___
 <br>
 <br>
-<br>
 
 # C++
 
@@ -93,7 +91,6 @@ https://github.com/PixelOmen/QTSDK
 
 ___
 ___
-<br>
 <br>
 <br>
 
