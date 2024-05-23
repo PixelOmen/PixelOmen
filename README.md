@@ -27,6 +27,19 @@ An internal full stack web app where users can enter and manage client specifica
 
 https://github.com/PixelOmen/specdb-docker.git
 
+- ##### SvelteFlask
+
+Internal POC web app that provides tools to assist colleagues with post-production workflows. It attempts to integrate Svelte for the frontend with Flask on the backend. It calls upon and integrates many of the tools and libraries featured here.
+
+https://github.com/PixelOmen/svelteflask.git
+___
+___
+<br>
+<br>
+<br>
+
+
+
 # Python
 ### Tools
 
@@ -63,15 +76,6 @@ RossetaPath objects translate network paths mounted to local volumes from one mo
 
 https://github.com/PixelOmen/rosettapath<br>
 
-
-___
-### Web
-
-- ##### SvelteFlask
-
-Internal POC website that provides tools to assist colleagues with post-production workflows. It attempts to integrate Svelte for the frontend with Flask on the backend. It calls upon and integrates many of the tools and libraries featured here.
-
-https://github.com/PixelOmen/svelteflask.git
 
 ___
 ___
