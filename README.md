@@ -8,6 +8,7 @@ ___
 ___
 # Portfolio
 
+[Web](#Web)<br>
 [Python](#python)<br>
 [C++](#c)<br>
 [Go](#go)<br>
@@ -17,6 +18,14 @@ ___
 <br>
 <br>
 <br>
+
+# Web
+
+- ##### SpecDB
+
+An internal full stack web app where users can enter and manage client specifications. Uses Flask and PostgreSQL, orchestrated with Docker Compose.
+
+https://github.com/PixelOmen/specdb-docker.git
 
 # Python
 ### Tools
