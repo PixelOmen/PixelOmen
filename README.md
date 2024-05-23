@@ -106,10 +106,3 @@ A simple extension of the standard logger that allows toggling between different
 https://github.com/PixelOmen/simplelog
 ___
 ___
-<br>
-<br>
-<br>
-
-<!-- # Web
-
-Coming Soon -->
