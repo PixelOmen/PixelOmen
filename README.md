@@ -26,15 +26,10 @@ A Django/Svelte full stack web app with token-based user authentication and data
 
 https://github.com/PixelOmen/sveltedjangokdm
 
-- ##### SpecDB
-
-An internal full stack web app where users can enter and manage client specifications. Uses Flask and PostgreSQL, orchestrated with Docker Compose.
-
-https://github.com/PixelOmen/specdb-docker
 
 - ##### SvelteFlask
 
-Internal POC web app that provides tools to assist colleagues with post-production workflows. It attempts to integrate Svelte for the frontend with Flask on the backend. It calls upon and integrates many of the tools and libraries featured here.
+Internal POC web app that provides tools to assist colleagues with post-production workflows using Svelte and Flask. It calls upon and integrates many of the tools and libraries featured here.
 
 https://github.com/PixelOmen/svelteflask
 ___
