@@ -22,7 +22,7 @@ ___
 
 - ##### KDM-GEN (Active Development)
 
-A public fictional webapp Django/Svelte full stack web app with token-based user authentication and data management.
+A Django/Svelte full stack web app with token-based user authentication and data management.
 
 https://github.com/PixelOmen/sveltedjangokdm
 
