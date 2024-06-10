@@ -1,6 +1,6 @@
 # Bio
 
-I am an experienced professional with 14 years in TV/Film post-production, with 6 years as a developer. While my journey didn't start in software development, the diverse technical challenges faced in post-production have allowed me to forge a strong foundation through real-world practical application. I'm eager to apply my skill sets in a new domain and am looking for opportunities to contribute to and grow within the tech industry. I am particularly interested in roles that challenge me to grow.
+While my journey didn't start in software development, the diverse technical challenges faced in TV/film post-production have allowed me to forge a strong foundation through real-world practical application. I'm eager to apply my skill sets in a new domain and am looking for opportunities to contribute to and grow within the tech industry.
 
 ___
 # Contact
