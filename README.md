@@ -7,32 +7,11 @@ Even though my journey didn't start in software development, the diverse technic
 
 # Portfolio
 
-[Web](#Web)<br>
 [Python](#python)<br>
+[Web](#Web)<br>
 [C++](#c)<br>
 [Go](#go)<br>
 
-___
-___
-<br>
-<br>
-<br>
-
-
-# Web
-
-- ##### KDM-GEN (Active Development)
-
-A Django/Svelte full stack web app with token-based user authentication and data management.
-
-https://github.com/PixelOmen/sveltedjangokdm
-
-
-- ##### SvelteFlask
-
-Internal POC web app that provides tools to assist colleagues with post-production workflows using Svelte and Flask. It calls upon and integrates many of the tools and libraries featured here.
-
-https://github.com/PixelOmen/svelteflask
 ___
 ___
 <br>
@@ -86,6 +65,23 @@ https://github.com/PixelOmen/pulselib<br>
 ___
 ___
 <br>
+
+# Web
+
+- ##### KDM-GEN (Active Development)
+
+A Django/Svelte full stack web app with token-based user authentication and data management.
+
+https://github.com/PixelOmen/sveltedjangokdm
+
+
+- ##### SvelteFlask
+
+Internal POC web app that provides tools to assist colleagues with post-production workflows using Svelte and Flask. It calls upon and integrates many of the tools and libraries featured here.
+
+https://github.com/PixelOmen/svelteflask
+___
+___
 <br>
 
 # C++
@@ -98,7 +94,6 @@ https://github.com/PixelOmen/QTSDK
 
 ___
 ___
-<br>
 <br>
 
 # Go
