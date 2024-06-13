@@ -1,11 +1,10 @@
 # Bio
 
-While my journey didn't start in software development, the diverse technical challenges faced in TV/film post-production have allowed me to forge a strong foundation through real-world practical application. I'm eager to apply my skill sets in a new domain and am looking for opportunities to contribute to and grow within the tech industry.
+Even though my journey didn't start in software development, the diverse technical challenges faced in TV/film post-production have allowed me to forge a strong foundation through real-world practical application. I'm eager to apply my skill sets in a new domain and am looking for opportunities to contribute to and grow within the tech industry.
 
-___
-# Contact
-3D.Acosta@gmail.com
-___
+<br>
+<br>
+
 # Portfolio
 
 [Web](#Web)<br>
@@ -17,6 +16,8 @@ ___
 ___
 <br>
 <br>
+<br>
+
 
 # Web
 
