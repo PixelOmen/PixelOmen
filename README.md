@@ -75,6 +75,13 @@ A Django/Svelte full stack web app with token-based user authentication and data
 https://github.com/PixelOmen/sveltedjangokdm
 
 
+- ##### Client Spec
+
+A full stack web application designed for internal use, where users can enter and manage client specifications. The application is built using Flask, PostgreSQL, SQLAlchemy, and orchestrated using Docker Compose.
+
+https://github.com/PixelOmen/specdb-docker
+
+
 - ##### SvelteFlask
 
 Internal POC web app that provides tools to assist colleagues with post-production workflows using Svelte and Flask. It calls upon and integrates many of the tools and libraries featured here.
